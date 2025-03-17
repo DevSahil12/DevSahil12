@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevSahil12
 - 👀 I’m interested in ...Coding ,developing new things
-- 🌱 I’m currently learning ...Android Development,java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Android Development,java,spring boot
+- 💞️ I’m looking to collaborate on various projects including Java Spring boot and Android Development
 - 📫 How to reach me ...email me on sharmas80928@gmail.com
 
 <!---
